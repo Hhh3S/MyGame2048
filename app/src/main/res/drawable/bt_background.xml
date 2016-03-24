@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <!--按钮按下之后显示的图片-->
+    <item android:drawable="@drawable/bg2"
+        android:state_pressed="true"/>
+
+    <!-- 默认显示的图片-->
+    <item android:drawable="@drawable/bg1"/>
+
+</selector>
