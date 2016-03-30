@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "day18.com.wangtongyu.mygame2048"
+        applicationId "com.wangtongyu.mygame2048"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 1
